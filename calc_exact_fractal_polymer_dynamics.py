@@ -5,7 +5,7 @@ import os
 df = 2.5  # fractal dimension
 N = 1000  # number of beads
 EPS = 1e-2  # nondimensional step time
-INTERVAL = 10　# (EPS * INTERVAL) corresponds to the normalized time between adjacent frames
+INTERVAL = 10  # (EPS * INTERVAL) corresponds to the normalized time between adjacent frames
 FRAME = 100  # frames of output XYZ file
 SAMPLE = 10  # number of polymer dynamics samples
 SEED = 12345678  # seed for the random number
